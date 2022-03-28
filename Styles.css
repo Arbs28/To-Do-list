@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+  }
+  .header {
+    color: white;
+    font-size: 25px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-align: center;
+    margin-bottom: 60px;
+  }
+  #task {
+    padding: 20px;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  #addTask {
+    background-color: black;
+    border: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 50%;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  #addTask:hover {
+    background-color: white;
+    color: black;
+  }
+  .box {
+    text-align: center;
+  }
+  .to-dos {
+    margin-top: 20px;
+  }
+  
+  .paragraph-style {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
